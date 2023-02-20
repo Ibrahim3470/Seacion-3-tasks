@@ -1,0 +1,48 @@
+.one
+{
+    background-image: url("../Learn/WhatsApp\ Image\ 2023-02-20\ at\ 10.30.30\ PM.jpeg");
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+    background-color: #eee;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.two
+{    
+    background-image: url("../Learn/WhatsApp\ Image\ 2023-02-20\ at\ 10.30.30\ PM.jpeg");
+    background-size: 200px 200px;
+    background-repeat: repeat-y;
+    background-color: #eee;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.three
+{
+    background-image: url("../Learn/WhatsApp\ Image\ 2023-02-20\ at\ 10.30.30\ PM.jpeg");
+    background-size: 200px 200px;
+    background-repeat: repeat-x;
+    background-color: #eee;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin-right: 10px;
+    background-position:bottom;
+}
+
+.four
+{
+    background-image: url("../Learn/WhatsApp\ Image\ 2023-02-20\ at\ 10.30.30\ PM.jpeg");
+    background-size: 200px 200px;
+    background-repeat: repeat;
+    background-color: #eee;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+}

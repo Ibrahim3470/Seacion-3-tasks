@@ -1,0 +1,40 @@
+.one
+{
+    background-color: #eee;
+    display: inline-block;
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    margin: -25px 0 0 -25px;
+}
+
+.two
+{
+    background-color: #eee;
+    display: inline-block;
+    border-left: green 5px solid;
+    border-right: green 5px solid;
+    border-top: blue 5px solid;
+    border-bottom: blue 5px solid;  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -25px 0 0 -25px;
+}
+
+.three
+{
+    background-color: #eee;
+    display: inline-block;
+    border-left: red 5px dashed;
+    border-right: green 5px dashed;
+    border-top: yellow 5px dashed;
+    border-bottom: blue 5px dashed;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    margin: -25px 0 0 -25px;
+}
